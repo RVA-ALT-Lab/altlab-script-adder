@@ -1,8 +1,8 @@
 <?php 
 /*
-Plugin Name: ALT Lab add script - make custom field named extra-script and write js as normal with <script></script> tags
+Plugin Name: ALT Lab add script adder
 Plugin URI:  https://github.com/
-Description: For stuff that's magical
+Description: make a custom field named extra-script and write js as normal with <script></script> tags
 Version:     1.0
 Author:      ALT Lab
 Author URI:  http://altlab.vcu.edu
